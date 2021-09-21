@@ -14,9 +14,9 @@ I'm a dedicated and fast-learning professional eager to perfect myself as a fron
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mihai-udvar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihai" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mihai.udvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXqPb_n_rnLhd8pTDpToj-w" target="blank"><img align="center" src="https://i.ibb.co/ZcDcXgX/6-2-youtube-png-picture.png" alt="mihai" height="70" width="50" /></a>
+<a href="https://www.linkedin.com/in/mihai-udvar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihai" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mihai.udvar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXqPb_n_rnLhd8pTDpToj-w" target="_blank"><img align="center" src="https://i.ibb.co/ZcDcXgX/6-2-youtube-png-picture.png" alt="mihai" height="70" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
