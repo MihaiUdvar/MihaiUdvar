@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Open source web dev projects.**
 
-- 👨‍💻 All of my projects are available at [github](github.com/MihaiUdvar)
+- 👨‍💻 All of my projects are available at [github](/MihaiUdvar)
 
 - 📫 How to reach me **mikael.udvar@gmail.com**
 
