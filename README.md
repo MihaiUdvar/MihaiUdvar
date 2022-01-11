@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihai</h1>
 <h3 align="center">Front-End Developer | Web Developer</h3>
 
-I'm a dedicated and fast-learning professional eager to perfect myself as a front-enddeveloper for the imminent technological future. I am passionate about user-friendlyand value-adding solutions. My streghts are communication and teamwork. In addition,I'm an experienced engineer with good technical understanding of small and large projects.
+I'm a dedicated and fast-learning professional eager to perfect myself as a front-end developer for the imminent technological future. I am passionate about user-friendlyand value-adding solutions. My streghts are communication and teamwork. In addition,I'm an experienced engineer with good technical understanding of small and large projects.
 
 - 🔭 I’m currently learning ReactJS 
 
