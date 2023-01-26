@@ -34,6 +34,4 @@ I'm a dedicated and fast-learning professional eager to perfect myself as a fron
 </a> <a href="#" target="_blank"> <img src="https://i.ibb.co/1GC7tDs/2634310-ensign-flag-hungary-nation-icon.png" alt="angular" width="40" height="40"/> </a>
 
 
-<h4>
-<h4 float="left">You can download my CV here: <img align="center" src="https://i.ibb.co/DG4SPH1/icons8-hand-right-48.png" alt="mihai" height="40" width="35" /> <a href="https://www.dropbox.com/home?preview=Mihai+Udvar_CV_English.pdf" target="_blank"><img align="center" src="https://i.ibb.co/BtMYW9b/cv-PNG34.png" alt="mihai" height="40" width="35" /></a>
-  </h4>
+
