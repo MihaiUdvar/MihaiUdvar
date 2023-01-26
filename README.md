@@ -27,11 +27,10 @@ I'm a dedicated and fast-learning professional eager to perfect myself as a fron
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiUdvar&theme=blue-greenn" alt="mihai" /></p>
 
 
-<h3 align="left">Spoken Languages:</h3>
+<h3 align="left">Languages Spoken:</h3>
 </a> <a href="#" target="_blank"> <img src="https://i.ibb.co/gwnkrcF/16014-england-english-flag-great-britain-inghilterra-icon.png" alt="angular" width="40" height="40"/> </a>
 </a> <a href="#" target="_blank"> <img src="https://i.ibb.co/JnwBS3W/2634380-ensign-flag-nation-norway-icon.png" alt="angular" width="40" height="40"/> </a> 
 </a> <a href="#" target="_blank"> <img src="https://i.ibb.co/R20Fs58/2634396-ensign-flag-nation-romania-icon.png" alt="angular" width="40" height="40"/> </a> 
-</a> <a href="#" target="_blank"> <img src="https://i.ibb.co/1GC7tDs/2634310-ensign-flag-hungary-nation-icon.png" alt="angular" width="40" height="40"/> </a>
 
 
 
