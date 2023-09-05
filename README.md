@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihai</h1>
 <h3 align="center">Front-End Developer | Web Developer</h3>
 
-I'm a dedicated and fast-learning professional eager to perfect myself as a front-end developer for the imminent technological future. I am passionate about user-friendlyand value-adding solutions. My streghts are communication and teamwork. In addition,I'm an experienced engineer with good technical understanding of small and large projects.
-
+Dedicated and fast-learning professional eager to perfect myself as a front-end developer for the imminent technological future.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mihai-udvar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihai" height="30" width="40" /></a>
