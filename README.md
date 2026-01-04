@@ -10,11 +10,3 @@ Dedicated and fast-learning professional eager to perfect myself as a front-end 
 <!--  <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MihaiUdvar&show_icons=true&locale=en" alt="mihai" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiUdvar&theme=blue-greenn" alt="mihai" /></p> -->
 
-
-<h3 align="left">Languages Spoken:</h3>
-</a> <a href="#" target="_blank"> <img src="https://i.ibb.co/gwnkrcF/16014-england-english-flag-great-britain-inghilterra-icon.png" alt="angular" width="40" height="40"/> </a>
-</a> <a href="#" target="_blank"> <img src="https://i.ibb.co/JnwBS3W/2634380-ensign-flag-nation-norway-icon.png" alt="angular" width="40" height="40"/> </a> 
-</a> <a href="#" target="_blank"> <img src="https://i.ibb.co/R20Fs58/2634396-ensign-flag-nation-romania-icon.png" alt="angular" width="40" height="40"/> </a> 
-
-
-
